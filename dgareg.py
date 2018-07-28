@@ -8,7 +8,7 @@ import pickle
 #
 #last updated 13.10.2015
 #
-#by Soeren F for "Malware Bootcamp 2015" - Rheinische-Friedrich-Wilhelms Universitaet Bonn
+#by SF
 #
 
 
